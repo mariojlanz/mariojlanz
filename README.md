@@ -1,4 +1,4 @@
-### Hi there 👋
+### Computer Engineering student at Northeastern University
 
 <!--
 **mariojlanz/mariojlanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
