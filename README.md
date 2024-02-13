@@ -1,6 +1,6 @@
 ### Computer Engineering student at Northeastern University
 
-### Electrical Engineer Co-op at AFFOA
+### Currently Searching for Full-time Embedded Software Position
 
 <!--
 **mariojlanz/mariojlanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
